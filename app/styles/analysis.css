@@ -1,0 +1,33 @@
+.showSwitch {
+	display: block;
+}
+.hideSwitch {
+	display: none;
+}
+.expandMenu {
+  width: 100%;
+}
+.expandMenu dt {
+	text-transform: uppercase;
+	background-color: #dddddd;
+	padding: 2px;
+	margin: 1px 0px 0px;
+	color: black;
+	cursor: hand;
+}
+.expandMenu a {
+	color: #FFFFFF;
+}
+.expandMenu a:hover {
+	color: #333333;
+	background-color: transparent;
+}
+.expandMenu dd {
+	margin: 0px;
+	padding: 0px;
+	background-color: #ededed;
+}
+.expandMenu ul {
+	background-color: white;
+	margin:  0px;
+	padding: 0px;

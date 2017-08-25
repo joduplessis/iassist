@@ -1,0 +1,39 @@
+
+input, select,  textarea { 
+	font-family:verdana;
+	color:black; 
+	background: #F4F4F4; 
+	border-color:#cccccc;
+	font-size:10px;
+	border-right-width:1px;
+	border-left-width:1px;
+	border-bottom-width:1px;
+	border-top-width:1px;  
+}
+
+body {
+	font-family: verdana ;
+	font-size: 10px ;
+	color: #333333;
+	text-decoration: none;
+	background-color: white;
+	overflow-x: hidden ;
+
+}
+table,a {
+	font-family: verdana ;
+	font-size: 10px ;
+	color: #333333;
+	text-decoration: none;
+	overflow: hidden;
+
+}
+.style1 {
+	font-family: verdana ;
+	font-weight: bold ;
+	font-size: 10px ;
+	background: black;
+	color: #FFFFFF;
+}
+
+
